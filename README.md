@@ -106,3 +106,6 @@ Repeat steps 3 - 5 each time you want to make a checkpoint of your work and save
 Using git and GitHub can be challenging, and you'll inevitably run into issues. While it's tempting to ignore version control systems, **they will save you time** in the long-run. For now, do your best to follow these processes, and read any error messages carefully. If you run into trouble, try to understand the issue (Google/StackOverflow), and consult other for help.
 
 To practice using these basic commands, see [exercise-1](exercise-1).
+
+### Nathan's Edit
+This morning, Monday, October 2nd, at 8:40 AM I had a cup of English Breakfast tea, roasted sweet potato, yukon gold potato, and onion (leftovers from dinner last night), scrambled eggs with kale and onion, and a piece of toasted rosemary bread my girlfriend made with my moms homemade marmalade. Pretty decent.
